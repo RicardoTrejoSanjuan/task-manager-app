@@ -2,7 +2,7 @@
 
 ## 🚀 Demo
 
-🔗 [Live Demo - Task Manager App](https://tmapp-rt.netlify.app/dashboard)  
+🔗 [Live Demo - Task Manager App](https://tmapp-rt.netlify.app)  
 
 ![Shopping Cart Screenshot](./public/Screenshot.png)
 ---
