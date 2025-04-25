@@ -12,19 +12,19 @@ export const menuItems: MenuItem[] = [
   {
     title: 'Dashboard',
     subTitle: 'dashboard',
-    href: '/dashboard',
+    href: '/',
     Icon: IoSpeedometerOutline,
   },
   {
     title: 'Task',
     subTitle: 'task',
-    href: '/dashboard/task',
+    href: '/task',
     Icon: IoListOutline,
   },
   {
     title: 'About me',
     subTitle: 'about-me',
-    href: '/dashboard/about-me',
+    href: '/about-me',
     Icon: IoAccessibilityOutline,
   },
 ];

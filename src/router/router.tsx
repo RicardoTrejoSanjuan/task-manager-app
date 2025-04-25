@@ -8,25 +8,19 @@ import { AboutMePage } from '../pages/about_me/AboutMePage';
 export const router = createBrowserRouter([
   {
     path: '/',
-    element: <Root />,
+    element: <DashboardLayout />,
     children: [
       {
-        path: 'dashboard',
-        element: <DashboardLayout />,
-        children: [
-          {
-            path: '',
-            element: <DashboardPage />,
-          },
-          {
-            path: 'task',
-            element: <TaskPage />,
-          },
-          {
-            path: 'about-me',
-            element: <AboutMePage />,
-          },
-        ],
+        path: '',
+        element: <DashboardPage />,
+      },
+      {
+        path: 'task',
+        element: <TaskPage />,
+      },
+      {
+        path: 'about-me',
+        element: <AboutMePage />,
       },
     ],
   },
