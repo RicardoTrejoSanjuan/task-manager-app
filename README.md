@@ -2,8 +2,9 @@
 
 ## 🚀 Demo
 
-🔗 [Live Demo Link](#)  
+🔗 [Live Demo - Task Manager App](https://tmapp-rt.netlify.app/dashboard)  
 
+![Shopping Cart Screenshot](./public/img/Screenshot.png)
 ---
 
 ## ✨ Features
