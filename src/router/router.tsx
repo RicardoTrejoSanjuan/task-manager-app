@@ -1,5 +1,4 @@
 import { createBrowserRouter } from 'react-router-dom';
-import { Root } from '../Root';
 import { DashboardLayout } from '../layouts';
 import { DashboardPage } from '../pages/dashboard/DashboardPage';
 import { TaskPage } from '../pages/task/TaskPage';
