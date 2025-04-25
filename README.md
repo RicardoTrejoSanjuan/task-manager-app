@@ -4,7 +4,7 @@
 
 🔗 [Live Demo - Task Manager App](https://tmapp-rt.netlify.app/dashboard)  
 
-![Shopping Cart Screenshot](./public/img/Screenshot.png)
+![Shopping Cart Screenshot](./public/Screenshot.png)
 ---
 
 ## ✨ Features
