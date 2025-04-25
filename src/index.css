@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+  @apply bg-slate-100 dark:bg-slate-800 text-gray-900 dark:text-white;
+}
+
+.page {
+  @apply bg-slate-100 dark:bg-slate-800 text-gray-900 dark:text-white;
+}

@@ -1,0 +1,11 @@
+.list-item {
+    @apply flex items-start;
+  }
+  
+  .list-item-icon {
+    @apply mr-4 text-2xl;
+  }
+  
+  .list-item-text {
+    @apply text-base;
+  }
